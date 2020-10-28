@@ -42,6 +42,7 @@
     "zone.js": "^0.8.10"
   },
   "dependencies": {
+    "@angular-devkit/schematics": "^10.2.0",
     "imgcache.js": "1.1.1"
   }
 }
