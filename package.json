@@ -30,19 +30,19 @@
   ],
   "homepage": "https://github.com/fiznool/ng-imgcache#readme",
   "devDependencies": {
-    "@angular/common": "^4.1.2",
-    "@angular/compiler": "^4.1.2",
-    "@angular/compiler-cli": "^4.1.2",
-    "@angular/core": "^4.1.2",
-    "@angular/forms": "^4.1.2",
-    "@angular/platform-browser": "^4.1.2",
-    "rimraf": "^2.6.1",
-    "rxjs": "^5.4.0",
-    "typescript": "^2.9.2",
-    "zone.js": "^0.8.10"
+    "@angular/common": "^10.2.0",
+    "@angular/compiler": "^10.2.0",
+    "@angular/compiler-cli": "^10.2.0",
+    "@angular/core": "^10.2.0",
+    "@angular-devkit/schematics": "^10.2.0",
+    "@angular/forms": "^10.2.0",
+    "@angular/platform-browser": "^10.2.0",
+    "rimraf": "^3.0.2",
+    "rxjs": "^6.6.3",
+    "typescript": "^3.9.7",
+    "zone.js": "^0.11.2"
   },
   "dependencies": {
-    "@angular-devkit/schematics": "^10.2.0",
-    "imgcache.js": "1.1.1"
+    "@chrisben/imgcache.js": "^2.1.1"
   }
 }
